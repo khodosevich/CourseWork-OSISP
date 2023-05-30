@@ -1,2 +1,2 @@
-# CourseWork-OSISP
-OSISP(course work)
+# Курсовая работа по предмету ОСИСП
+
